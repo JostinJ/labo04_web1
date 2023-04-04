@@ -1,0 +1,11 @@
+{
+  "name": "labo04",
+  "version": "1.0.0",
+  "description": "Début de la programmation NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jostin Jarry-Nohair",
+  "license": "ISC"
+}
